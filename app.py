@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.title("用streamlit架站")
+st.header("網頁標題")
 
 with st.sidebar:
     st.header("選單標題")
@@ -11,4 +12,4 @@ with st.sidebar:
 
 #網頁 footer bottom 聯絡資訊
 st.bottom.header("關於我")
-st.bottom.text("聯絡資訊: email: mymis168@gmail.com")
+st.bottom.text("聯絡資訊: email: whitebig17@gmail.com")
