@@ -3,7 +3,7 @@ import streamlit as st
 # (A) CONTENTS
 st.title("研究專題名稱")
 st.divider()
-st.logo = st.image("images/logo.png", width=100)
+
 col1, col2 = st.columns(2)
 
 with col1:
@@ -46,6 +46,7 @@ with c1:
 st.image("images/img01.jpg", caption="肺癌預防與護肺要點")
 
 # (B) LEFT
+st.logo = st.image("images/logo.png", width=100)
 with st.sidebar:
     with st.container():
         st.header("選單標題1")
