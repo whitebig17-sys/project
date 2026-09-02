@@ -43,7 +43,7 @@ with c1:
         "防範環境與職業暴露：避免長期接觸重金屬、石棉、"
         "柴油廢氣或有害化學物質，工作時應確實穿戴防護裝備。"
     )
-
+st.image("../images/img01.jpg", caption="肺癌預防與護肺要點")
 
 # (B) LEFT
 with st.sidebar:
