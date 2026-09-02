@@ -1,6 +1,6 @@
 import streamlit as st
 
-#st.logo("images/logo.png", size="large")
+
 
 st.title("測試")
 # (A) CONTENTS
@@ -8,8 +8,8 @@ st.title("研究專題名稱")
 st.divider()
 
 # 若 images/logo.png 不存在，執行時會跳出警告，請確保檔案路徑正確
-st.logo("images/logo.png", size="32px")
-
+#st.logo("images/logo.png", size="32px")
+#st.logo("images/logo.png", size="large")
 col1, col2 = st.columns(2)
 
 with col1:
