@@ -3,7 +3,7 @@ import streamlit as st
 #Layout (A) Main
 st.title("研究肺癌臨床治療存活率")
 st.divider()
-st.logo("images/logo.png",size="large")
+#st.logo("images/logo.png",size="large")
 
 col1, col2 = st.columns(2)
 
