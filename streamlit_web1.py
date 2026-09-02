@@ -7,7 +7,7 @@ st.title("研究專題名稱")
 st.divider()
 
 # Logo
-st.logo("images/logo.png")
+st.image("images/logo.png")
 
 
 # 內容區
