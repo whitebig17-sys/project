@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.logo("images/logo.png")
+#st.logo("images/logo.png", size="large")
 
 st.title("測試")
 # (A) CONTENTS
