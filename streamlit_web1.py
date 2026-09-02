@@ -3,6 +3,8 @@ import streamlit as st
 # (A) CONTENTS
 st.title("研究專題名稱")
 st.divider()
+st.logo("images/logo.png", size="large")
+
 
 col1, col2 = st.columns(2)
 
@@ -28,7 +30,7 @@ with col2:
         "減少廚房油煙：高溫煎、炒容易產生有害油煙。</p>",
         unsafe_allow_html=True
     )
-
+st.divider()
 c1 = st.container()
 
 with c1:
@@ -45,8 +47,20 @@ with c1:
     )
 st.image("images/img01.jpg", caption="肺癌預防與護肺要點")
 
+tab1, tab2, tab3 = st.tabs(["預防肺癌與護肺要點", "治療肺癌與護肺要點", "關於肺癌"])
+with tab1:
+    st.header("預防肺癌與護肺要點")
+    st.image("images/img01.jpg", caption="肺癌預防與護肺要點")
+
+with tab2:
+    st.header("治療肺癌與護肺要點")
+    st.image("images/img01.png", caption="肺癌治療與護肺要點")
+
+with tab3:
+    st.video("https://www.youtube.com/watch?v=Bz-UCPP8fMo&t=333s", format="video/mp4", start_time=0)
+
+
 # (B) LEFT
-st.logo = st.image("images/logo.png", width=100)
 with st.sidebar:
     with st.container():
         st.header("選單標題1")
