@@ -1,0 +1,60 @@
+https://opendata.taichung.gov.tw/
+台中市政府資料開放平台
+
+--------------------------------------------------------------------------------
+1)臺中市市區公車預估到站時刻表
+https://opendata.taichung.gov.tw/search/b7c9c388-ecbc-4cbb-96fb-080c9aea799b
+
+2)臺中市市區公車路線站點資訊
+https://opendata.taichung.gov.tw/search/2a5640b9-f2f7-432a-b7cd-5bf3d35d8b5e
+
+3)臺中市公車月運量
+https://opendata.taichung.gov.tw/search/a0f4d0f7-60e1-41fd-badf-e5caa808f4df
+
+4)20621-01-06-2 臺中市市區公車業務概況及行車情形－按公司別分
+https://opendata.taichung.gov.tw/search/7fb0c5af-38ea-4da1-882c-24d710ea7bd2
+
+5)20622-01-09-2 臺中市市區汽車客運業家數、車輛數
+https://opendata.taichung.gov.tw/search/e082d23b-2117-4b8c-a71c-7691cc174d51
+
+6)臺中市公車業者資料
+https://opendata.taichung.gov.tw/search/2e4c698e-5704-4e6e-b1f1-ddcac6821afd
+
+7)20623-90-01-2 臺中市市區公車智慧卡交易量
+https://opendata.taichung.gov.tw/search/1b31ad15-04ab-4109-ad6f-bd557b953b3a
+
+8)臺中市公車動態資訊
+https://opendata.taichung.gov.tw/search/810d9dda-a293-452f-a86c-8ee68e2c760e
+
+9)臺中捷運公車轉乘資訊
+https://opendata.taichung.gov.tw/search/30a4731d-998c-4798-97ff-96bbd4c34d3b
+
+10)臺中市市區公車站牌資料
+https://opendata.taichung.gov.tw/search/3e09d847-0fbd-41fa-9e6c-2b37aa47e07e
+
+11)臺中市路段動態資訊 
+https://opendata.taichung.gov.tw/search/376abc42-0b99-4bf9-862b-276d71965d77
+----------------------------------------------------------------------------------
+政府資料開放平台
+
+1)臺中市公車動態資訊_資料資源欄位	機關代碼、電話、網址、路線、方向、車號、衛星時間、緯度、經度
+https://data.gov.tw/dataset/83749
+目前所提供之公車動態資訊系統第3方開發者介接檔案為範例檔案，如有介接該服務需求，請下載申請表單向本府交通局申請。 
+申請表單下載網址：https://eservices.taichung.gov.tw/AdvSearch/index/160/Metasearch/0?ApplyType=2&CodeLv0=0&Lv1Dept=387290000H&Lv2Dept=387290100H
+
+2)臺中市市區公車預估到站時刻表_資料資源欄位	路線、方向、站序、站點、核定班表1_時刻、核定班表2_時刻、核定班表3_時刻、
+https://data.gov.tw/dataset/83747
+一、該資料集為彙整臺中市市區公車預估到站之時刻表，該表彙整、發布時間難免與各公車實際運行情形有落差，最新詳細乘車資訊仍請依本局官網公告為準。 
+二、目前所提供檔案為範例檔案，如有介接該服務需求，請下載申請表單向本府交通局申請(便民服務-服務E櫃台-公捷處-臺中市公車動態資訊資料庫)。
+
+3)臺中市公車業者資料_資料資源欄位	客運業者、電話、地址、服務時段、申訴專線
+https://data.gov.tw/dataset/85026
+該資料集為臺中市市區公車業者資料，包含業者名稱、電話、地址、申訴專線等資訊，供民眾參考使用
+
+4)臺中市市區公車站牌資料_資料資源欄位	路線名稱、去返程、往、站序、站點編號、站點名稱、緯度、經度、地址
+https://data.gov.tw/dataset/81555
+該資料集提供民眾民眾各路線各站牌路線資訊，包含站牌中文名稱、站牌英文名稱、站序及站牌經緯度資訊供民眾參考使用。
+
+5)臺中市市區公車路線站點資訊_資料資源欄位	機關代碼、電話/市話、序號、公車業者、路線、路線說明、連結、去程、回程、備註
+https://data.gov.tw/dataset/83748
+該資料集為臺中市市區公車各路線路線圖，該資料集彙整、發布時間難免與各公車實際運行情形有落差，最新詳細乘車資訊仍請依本局官網公告為準。
