@@ -5,7 +5,7 @@ st.title("研究專題名稱")
 st.divider()
 
 # 若 images/logo.png 不存在，執行時會跳出警告，請確保檔案路徑正確
-st.logo("images/logo.png", size="large")
+st.logo("images/logo.png", size="32px")
 
 col1, col2 = st.columns(2)
 
