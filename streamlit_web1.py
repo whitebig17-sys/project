@@ -56,7 +56,7 @@ with tab2:
     st.image("images/img01.png", caption="肺癌治療與護肺要點")
 
 with tab3:
-    st.video("https://www.youtube.com/watch?v=Bz-UCPP8fMo&t=333s", start_time=0)
+    st.video("https://www.youtube.com/watch?v=Bz-UCPP8fMo&t=333s",format="video/mp4", start_time="2 m 30s" , end_time="10 m",autoplay=True, muted=True)
 
 
 # (B) LEFT
