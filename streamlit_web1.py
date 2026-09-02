@@ -3,7 +3,7 @@ import streamlit as st
 # (A) CONTENTS
 st.title("研究專題名稱")
 st.divider()
-
+st.logo = st.image("images/logo.png", width=100)
 col1, col2 = st.columns(2)
 
 with col1:
