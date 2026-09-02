@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.write(st.__version__)
+
 # (A) CONTENTS
 st.title("研究專題名稱")
 st.divider()
