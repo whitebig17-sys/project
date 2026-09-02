@@ -1,7 +1,8 @@
 import streamlit as st
 
-st.write(st.__version__)
+st.logo("images/logo.png", size="large")
 
+st.title("測試")
 # (A) CONTENTS
 st.title("研究專題名稱")
 st.divider()
